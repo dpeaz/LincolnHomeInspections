@@ -1,15 +1,5 @@
-# Bitcorns | A Bitcoin Ordinal Project
+# Lincoln Home Inspections
 
 ## Overview
 
-*Talk about the tools we offer.*
-
-## Get Started
-
-*Talk about how to access and use our tools.*
-
-## Future Projects
-
-- Bitmap Floor Price Checker
-- Portfolio Manager
-- Directory of Ordinals
+*Talk about the business*

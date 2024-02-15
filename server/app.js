@@ -1,8 +1,6 @@
 import express from "express";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
-import bitmaps from "./routers/bitmap.js";
-import pendings from "./routers/pendings.js";
 
 dotenv.config();
 
